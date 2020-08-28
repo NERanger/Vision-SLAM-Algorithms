@@ -1,7 +1,5 @@
 # SLAM Algorithm
 
-SLAM algorithm implements with **Intel Realsense D435i**
-
 ## System
 
 Ubuntu 18.04 LTS
