@@ -62,6 +62,6 @@ Another method is to use `find_package`
 
 ```cmake
 find_package(Eigen3 REQUIRED)
-include_directories(${Eigen3_INCLUDE_DIRS})
+include_directories(${Eigen3_INCLUDE_DIRS}) # cannot use with 3.3.8
 ```
 
